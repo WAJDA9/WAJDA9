@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WAJDA9
-- 👀 I’m interested in mobile dev/graphic design/data science
-- 🌱 I’m currently learning Mobile developement
+- 👀 I’m a software engineering student
+- 🌱 I'm a flutter mobile developer with an interest in data science
 - 📫 How to reach me at wajdizakhama9@gmail.com
 
 <!---
